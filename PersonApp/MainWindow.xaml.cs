@@ -20,9 +20,29 @@ namespace PersonApp
     /// </summary>
     public partial class MainWindow : Window
     {
+        public List<Person> people = new List<Person>();
         public MainWindow()
         {
             InitializeComponent();
+            people.Add(new Person { FirstName = "John", LastName = "Doe" });
+            people.Add(new Person { FirstName = "Joe", LastName = "Smith" });
+            people.Add(new Person { FirstName = "Sue", LastName = "Storm" });
+            peopleComboBox.ItemsSource = people;
+        }
+
+        private void TextBox_TextChanged(object sender, TextChangedEventArgs e)
+        {
+
+        }
+
+        private void TextBox_TextChanged_1(object sender, TextChangedEventArgs e)
+        {
+
+        }
+
+        private void Button_Click(object sender, RoutedEventArgs e)
+        {
+            MessageBox.Show($"Hello {firstNameTxtBx.Text} {lastNameTxtBx.Text}");
         }
     }
 }

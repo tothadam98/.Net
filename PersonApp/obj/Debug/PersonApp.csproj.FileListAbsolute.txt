@@ -1,0 +1,15 @@
+C:\Users\totha\source\repos\.Net\PersonApp\obj\Debug\PersonApp.csproj.AssemblyReference.cache
+C:\Users\totha\source\repos\.Net\PersonApp\obj\Debug\MainWindow.g.cs
+C:\Users\totha\source\repos\.Net\PersonApp\obj\Debug\App.g.cs
+C:\Users\totha\source\repos\.Net\PersonApp\obj\Debug\PersonApp_MarkupCompile.cache
+C:\Users\totha\source\repos\.Net\PersonApp\obj\Debug\PersonApp_MarkupCompile.lref
+C:\Users\totha\source\repos\.Net\PersonApp\bin\Debug\PersonApp.exe.config
+C:\Users\totha\source\repos\.Net\PersonApp\bin\Debug\PersonApp.exe
+C:\Users\totha\source\repos\.Net\PersonApp\bin\Debug\PersonApp.pdb
+C:\Users\totha\source\repos\.Net\PersonApp\obj\Debug\MainWindow.baml
+C:\Users\totha\source\repos\.Net\PersonApp\obj\Debug\PersonApp.g.resources
+C:\Users\totha\source\repos\.Net\PersonApp\obj\Debug\PersonApp.Properties.Resources.resources
+C:\Users\totha\source\repos\.Net\PersonApp\obj\Debug\PersonApp.csproj.GenerateResource.cache
+C:\Users\totha\source\repos\.Net\PersonApp\obj\Debug\PersonApp.csproj.CoreCompileInputs.cache
+C:\Users\totha\source\repos\.Net\PersonApp\obj\Debug\PersonApp.exe
+C:\Users\totha\source\repos\.Net\PersonApp\obj\Debug\PersonApp.pdb

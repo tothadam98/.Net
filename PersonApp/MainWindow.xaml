@@ -7,6 +7,12 @@
         mc:Ignorable="d"
         Title="MainWindow" Height="450" Width="800">
     <Grid>
-        
+        <TextBox HorizontalAlignment="Left" Height="23" Margin="33,26,0,0" TextWrapping="Wrap" Text="Personal Information" VerticalAlignment="Top" Width="140" RenderTransformOrigin="0.494,0.357"/>
+        <TextBox HorizontalAlignment="Left" Height="23" Margin="33,54,0,0" TextWrapping="Wrap" Text="First Name" VerticalAlignment="Top" Width="71" TextChanged="TextBox_TextChanged"/>
+        <TextBox HorizontalAlignment="Left" Height="23" Margin="33,82,0,0" TextWrapping="Wrap" Text="Last Name" VerticalAlignment="Top" Width="71"/>
+        <TextBox x:Name="firstNameTxtBx" HorizontalAlignment="Left" Height="23" Margin="109,54,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="120" TextChanged="TextBox_TextChanged_1"/>
+        <TextBox x:Name="lastNameTxtBx" HorizontalAlignment="Left" Height="23" Margin="109,82,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="120"/>
+        <Button Content="Run me" HorizontalAlignment="Left" Margin="43,110,0,0" VerticalAlignment="Top" Width="130" Height="17" Click="Button_Click"/>
+
     </Grid>
 </Window>
