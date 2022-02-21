@@ -1,0 +1,15 @@
+C:\Users\totha\source\repos\.Net\FileExplorerApp\obj\Debug\FileExplorerApp.csproj.AssemblyReference.cache
+C:\Users\totha\source\repos\.Net\FileExplorerApp\obj\Debug\App.g.cs
+C:\Users\totha\source\repos\.Net\FileExplorerApp\obj\Debug\FileExplorerApp_MarkupCompile.cache
+C:\Users\totha\source\repos\.Net\FileExplorerApp\bin\Debug\FileExplorerApp.exe.config
+C:\Users\totha\source\repos\.Net\FileExplorerApp\bin\Debug\FileExplorerApp.exe
+C:\Users\totha\source\repos\.Net\FileExplorerApp\bin\Debug\FileExplorerApp.pdb
+C:\Users\totha\source\repos\.Net\FileExplorerApp\obj\Debug\MainWindow.g.cs
+C:\Users\totha\source\repos\.Net\FileExplorerApp\obj\Debug\FileExplorerApp_MarkupCompile.lref
+C:\Users\totha\source\repos\.Net\FileExplorerApp\obj\Debug\MainWindow.baml
+C:\Users\totha\source\repos\.Net\FileExplorerApp\obj\Debug\FileExplorerApp.g.resources
+C:\Users\totha\source\repos\.Net\FileExplorerApp\obj\Debug\FileExplorerApp.Properties.Resources.resources
+C:\Users\totha\source\repos\.Net\FileExplorerApp\obj\Debug\FileExplorerApp.csproj.GenerateResource.cache
+C:\Users\totha\source\repos\.Net\FileExplorerApp\obj\Debug\FileExplorerApp.csproj.CoreCompileInputs.cache
+C:\Users\totha\source\repos\.Net\FileExplorerApp\obj\Debug\FileExplorerApp.exe
+C:\Users\totha\source\repos\.Net\FileExplorerApp\obj\Debug\FileExplorerApp.pdb
