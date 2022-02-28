@@ -3,6 +3,8 @@
                     xmlns:helper="clr-namespace:ProductApp.Helper">
 
     <helper:IntegerToBrushConverter x:Key="QtyConverter" />
+    <helper:IntegerToDashDotConverter x:Key="AnnualConverter" />
+    
     
     <DataTemplate x:Key="IDCellTemplate">
         <TextBlock Foreground="LightSeaGreen"
@@ -25,6 +27,12 @@
         <TextBlock 
                 Foreground="{Binding Path=Quantity, Converter={StaticResource QtyConverter}}"
                 Text="{Binding Path=Quantity}" />
+    </DataTemplate>
+
+    <DataTemplate x:Key="AnnualCellTemplate">
+        <TextBlock 
+                Foreground="{Binding Path=AnnualSales, Converter={StaticResource AnnualConverter}}"
+                Text="{Binding Path=AnnualSales}" />
     </DataTemplate>
 
 </ResourceDictionary>

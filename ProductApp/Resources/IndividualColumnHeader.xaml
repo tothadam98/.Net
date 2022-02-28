@@ -25,4 +25,10 @@
         </Border>
     </DataTemplate>
 
+    <DataTemplate x:Key="AnnualColHeader">
+        <Border Style="{StaticResource BlueBorder}">
+            <TextBlock Text="Annual Sales" Style="{StaticResource Text}" />
+        </Border>
+    </DataTemplate>
+
 </ResourceDictionary>

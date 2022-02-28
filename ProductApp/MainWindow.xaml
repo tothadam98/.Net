@@ -28,6 +28,11 @@
                         HeaderTemplate="{StaticResource QtyColHeader}"
                         CellTemplate="{StaticResource QtyCellTemplate}">
                     </GridViewColumn>
+                    
+                    <GridViewColumn
+                        HeaderTemplate="{StaticResource AnnualColHeader}"
+                        CellTemplate="{StaticResource AnnualCellTemplate}">
+                    </GridViewColumn>
                 </GridView>
             </ListView.View>
         </ListView>

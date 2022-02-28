@@ -64,6 +64,7 @@
       <SubType>Code</SubType>
     </Compile>
     <Compile Include="Data\DrinkProduct.cs" />
+    <Compile Include="Helper\IntegerToDashDotConverter.cs" />
     <Compile Include="Helper\IntegerToBrushConverter.cs" />
     <Compile Include="MainWindow.xaml.cs">
       <DependentUpon>MainWindow.xaml</DependentUpon>
