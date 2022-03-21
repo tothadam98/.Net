@@ -59,3 +59,8 @@ C:\Users\totha\source\repos\.Net\AlgorithmicsAPI\AlgorithmicsAPI\bin\Debug\net6.
 C:\Users\totha\source\repos\.Net\AlgorithmicsAPI\AlgorithmicsAPI\obj\Debug\net6.0\AlgorithmicsAPI.csproj.CopyComplete
 C:\Users\totha\source\repos\.Net\AlgorithmicsAPI\AlgorithmicsAPI\bin\Debug\net6.0\Humanizer.dll
 C:\Users\totha\source\repos\.Net\AlgorithmicsAPI\AlgorithmicsAPI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\totha\source\repos\.Net\AlgorithmicsAPI\AlgorithmicsAPI\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\totha\source\repos\.Net\AlgorithmicsAPI\AlgorithmicsAPI\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\totha\source\repos\.Net\AlgorithmicsAPI\AlgorithmicsAPI\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\totha\source\repos\.Net\AlgorithmicsAPI\AlgorithmicsAPI\obj\Debug\net6.0\AlgorithmicsAPI.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\totha\source\repos\.Net\AlgorithmicsAPI\AlgorithmicsAPI\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
