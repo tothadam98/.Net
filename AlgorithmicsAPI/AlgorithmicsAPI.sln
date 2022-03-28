@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.1.32228.430
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AlgorithmicsAPI", "AlgorithmicsAPI\AlgorithmicsAPI.csproj", "{2B5C6976-B7E6-454A-941C-E455FDD0CD2B}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AlgorithmicsAPI", "AlgorithmicsAPI\AlgorithmicsAPI.csproj", "{1A0A9E09-895B-4FE4-BA46-C3E996DB3CF6}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -11,15 +11,15 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{2B5C6976-B7E6-454A-941C-E455FDD0CD2B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{2B5C6976-B7E6-454A-941C-E455FDD0CD2B}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{2B5C6976-B7E6-454A-941C-E455FDD0CD2B}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{2B5C6976-B7E6-454A-941C-E455FDD0CD2B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1A0A9E09-895B-4FE4-BA46-C3E996DB3CF6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1A0A9E09-895B-4FE4-BA46-C3E996DB3CF6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1A0A9E09-895B-4FE4-BA46-C3E996DB3CF6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1A0A9E09-895B-4FE4-BA46-C3E996DB3CF6}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
-		SolutionGuid = {C3C2C352-43BA-4087-B142-4FF0250F8D7C}
+		SolutionGuid = {50FEAED0-AC3D-44F3-A220-8CFC471A3719}
 	EndGlobalSection
 EndGlobal
